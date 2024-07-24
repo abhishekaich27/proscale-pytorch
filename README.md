@@ -26,7 +26,7 @@
 Efficient encoder design to reduce computational cost of Mask2Former models
 - **Simple.** Easily pluggable to Mask2Former-style models.
 - **Effective.** Flexible in reducing encoder cost by 50-75% with little to no segmentation performance degradation.
-- **General.** Evaluatedted with various backbones, pre-trained weights as well as DETR model (DINO).
+- **General.** Evaluated with various backbones, pre-trained weights as well as DETR model (DINO).
 
 ## Model Framework
 
@@ -45,7 +45,7 @@ Efficient encoder design to reduce computational cost of Mask2Former models
 - Create a folder named *pretrained_ckpt* in the root folder using `mkdir pretrained_ckpt`.
 - Please use the [analyze_model](https://raw.githubusercontent.com/facebookresearch/Mask2Former/main/tools/analyze_model.py) code from Mask2Former to compute GFLOPs reported in the paper.
 - Download [our pretrained weights](https://drive.google.com/drive/folders/1eRMBva17PTl29Ceg_n0cJTXvkBX1tTcx?usp=sharing) and put them in *pretrained_ckpt*. \
-Our pretrained weights includes PRO-SCALE (configuration (3,3,3)) based Mask2Former models with coresponding backbone and trained on corresponding dataset: 
+Our pretrained weights includes PRO-SCALE (configuration (3,3,3)) based Mask2Former models with corresponding backbone and trained on corresponding dataset: 
 
 | Model Name                   | Backbone  | Dataset        | Config  | PQ (%)        |
 |------------------------------|-----------|----------------|-----------|----------------|
