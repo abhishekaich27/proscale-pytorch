@@ -73,7 +73,7 @@ If you have any questions, don't hesitate to contact me at `aaich001@ucr.edu`.
 
 ## Acknowledgement
 
-This repository was built on top of [Detectron2](https://github.com/facebookresearch/detectron2) and [Mask2Former](https://github.com/facebookresearch/Mask2Former). We thank and acknowledge their effort.
+This repository was built on top of [Detectron2](https://github.com/facebookresearch/detectron2) and [Mask2Former](https://github.com/facebookresearch/Mask2Former). We thank and acknowledge their effort. Please also see our contemporary work ECO-M2F ([paper](https://arxiv.org/abs/2404.15244), [code](https://github.com/GYeow/ECO-M2F)) on efficient transformer encoders.
 
 
 ## Citing PRO-SCALE
