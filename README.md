@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>Progressive Token Length Scaling in Transformer Encoders <br> for Efficient Universal Segmentation<br> (official implementation) </h1>
+<h2>Progressive Token Length Scaling in Transformer Encoders <br> for Efficient Universal Segmentation<br> (official implementation) </h2>
 
 <div>
     <a href='https://abhishekaich27.github.io/' target='_blank'>Abhishek Aich</a>&emsp;
