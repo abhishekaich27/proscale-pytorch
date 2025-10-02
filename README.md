@@ -44,7 +44,7 @@ Efficient encoder design to reduce computational cost of Mask2Former models
 ## Download pretrained weights
 - Create a folder named *pretrained_ckpt* in the root folder using `mkdir pretrained_ckpt`.
 - Please use the [analyze_model](https://raw.githubusercontent.com/facebookresearch/Mask2Former/main/tools/analyze_model.py) code from Mask2Former to compute GFLOPs reported in the paper.
-- Download [our pretrained weights](https://drive.google.com/drive/folders/1eRMBva17PTl29Ceg_n0cJTXvkBX1tTcx?usp=sharing) and put them in *pretrained_ckpt*. \
+- Download [our pretrained weights](https://drive.google.com/drive/folders/19gEcvFE9tVKost0rmYD5pHgfgGBZl30A?usp=sharing) and put them in *pretrained_ckpt*. \
 Our pretrained weights includes PRO-SCALE (configuration (3,3,3)) based Mask2Former models with corresponding backbone and trained on corresponding dataset: 
 
 | Model Name                   | Backbone  | Dataset        | Config  | PQ (%)        |
